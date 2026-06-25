@@ -20,4 +20,4 @@ Uninstall:
 brew uninstall --cask legra
 ```
 
-After installing, open Legra, paste the Chrome extension ID in Settings, and click `Install Native Host` to enable Chrome import.
+After installing or upgrading, open Legra, paste the Chrome extension ID in Settings, and click `Install Native Host` to enable or refresh Chrome import. Reloading the unpacked Chrome extension does not update the Native Host binary that Chrome launches.
